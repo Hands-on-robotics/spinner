@@ -2,7 +2,7 @@
 
 /**
  * spinner Writes a spinner to the console with stdout.
- * @param {number} timer Is the number of milliseconds that spinner will rotation.
+ * @param {number} timer Is the number of milliseconds for the spinner to rotate.
  */
 const spinner = function(timer) {
   // The variables for spin.
